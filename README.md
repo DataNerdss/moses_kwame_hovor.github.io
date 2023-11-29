@@ -1,1 +1,4 @@
-# moses_kwame_hovor.github.io
+# Data Analyst
+
+### Education
+University of Ghana
